@@ -1,8 +1,7 @@
 # moviman
 
 A new Flutter project.
-
-## Getting Started
+Getting Started
 
 Run flutter pub get
 project save all
